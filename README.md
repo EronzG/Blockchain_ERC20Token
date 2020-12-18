@@ -26,7 +26,7 @@ Distribute Tokens:
 curl -XPOST http://localhost:8082/transfer
 
 
-Or using a tool such as POSTMAN
+Or using an API testing tool such as POSTMAN
 
 create new requests for the calls
 
