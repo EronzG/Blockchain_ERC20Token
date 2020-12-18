@@ -29,6 +29,9 @@ curl -XPOST http://localhost:8082/transfer
 Or using a tool such as POSTMAN
 
 create new requests for the calls
+
 GET - http://localhost:8082/totalsupply
+
 GET - http://localhost:8082/balance/0x16261dF3d8eF130417755bF1Ab3da93D35cc4997
+
 POST - http://localhost:8082/transfer
